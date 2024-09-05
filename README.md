@@ -1,1 +1,2 @@
-# nitcode
+# nitcod
+my first code
